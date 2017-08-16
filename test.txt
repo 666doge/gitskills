@@ -1,2 +1,1 @@
-this is created by my friend
-this is created/added by myself
+origin master
